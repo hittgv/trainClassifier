@@ -1,0 +1,2 @@
+[u'badOutLinks', u'bounceRate', u'dailyPageViewPerVisitor', u'dailyTimeOnSite', u'globalRank', u'goodOutLinks', u'internalLinks', u'outboundLinks', u'redirectOutLinks']
+[[  4.50079116e-02  -8.33429003e-02  -4.79268586e-01   9.97288581e-01  7.70644305e-04   6.16570933e-02  -3.07096771e-02  -2.05707411e-02  -1.57945423e-01]]
